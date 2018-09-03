@@ -1,0 +1,15 @@
+#jeden {
+	background-color: red;
+	
+}
+
+#dwa {
+	background-color: aquamarine;
+	position: relative;
+	top: auto;
+}
+
+.kwadrat {
+	width: 100px;
+	height: 100px;
+}
